@@ -1,0 +1,5 @@
+# 其他忽略项
+*.log
+__pycache__/
+*.pyc
+.env
